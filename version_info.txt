@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0xFFFFFFFE,
+    flags=0x00000013,
+    OS=0x00040004,
+    fileType=0x00000001,
+    subtype=0x00000000,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'040904B0',
+          [StringStruct(u'CompanyName', u'Bilibili:白菜卷_'),
+          StringStruct(u'FileDescription', u'基于ResNET18的火影忍者手游替身自动计时器'),
+          StringStruct(u'FileVersion', u'1.0.0.0'),
+          StringStruct(u'InternalName', u'ScreenshotRecognitionCountdown'),
+          StringStruct(u'LegalCopyright', u'Copyright (C) 2025'),
+          StringStruct(u'OriginalFilename', u'ScreenshotRecognitionCountdown.exe'),
+          StringStruct(u'ProductName', u'基于ResNET18的火影忍者手游替身自动计时器'),
+          StringStruct(u'ProductVersion', u'1.0.0.0')])
+      ]),
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
